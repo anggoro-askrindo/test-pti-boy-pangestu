@@ -26,7 +26,7 @@ class CustomBottomNav extends StatelessWidget {
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.person),
-          label: 'Camera',
+          label: 'Profile',
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.person),
